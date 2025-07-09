@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__/
+env/
+*.sqlite3
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# IDEs
+.vscode/
+.idea/
+
+# General
+.DS_Store
+.env
